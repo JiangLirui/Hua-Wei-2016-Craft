@@ -1,4 +1,4 @@
-# 华为软件精英挑战赛2016
+# 说明
 1、用codeblacks(编译器要求是GCC/MinGW)运行时，自己在codeblacks上新建一个空工程，然后新建各文件，将代码分别拷贝到相应文件。
 然后设置测试数据的路径，程序就可编译运行。
 2、在linux下用命令行运行，需要安装gcc,g++,输入命令：sudo apt-get install gcc g++。
